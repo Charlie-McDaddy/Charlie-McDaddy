@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Charlie-McDaddy
-- 👀 I’m interested in Web and App Development.
-- 🌱 I’m currently learning JavaScript..
+- 👀 I’m interested in AI Engineering.
+- 🌱 I’m currently learning Spec Driven Development..
 - 📫 How to reach me ...
 
 <!---
